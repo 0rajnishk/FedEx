@@ -1,4 +1,4 @@
-# 🚗 FedEx Fleet Monitoring & Driver Safety System  
+# FedEx Fleet Monitoring & Driver Safety System  
 
 ## Overview  
 This project was developed during my **Research & Development Internship at HILCPS Lab, IIT Madras**, in collaboration with **FedEx**. It focuses on **real-time driver monitoring, vehicle health tracking, and fleet analytics** using **Flutter, Computer Vision, ML, and Embedded Systems**.  
