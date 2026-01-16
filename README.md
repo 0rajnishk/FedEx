@@ -23,7 +23,7 @@ The system consists of:
 - **Distraction Detection** using:  
   - **Yaw, Pitch, Roll** – Measures head movement angles.  
   - **Gaze Points Tracking** – Determines if the driver is looking away.  
-- **Combined these features** to provide **real-time alerts with audio & emojis** 🚨🎵😴.  
+- **Combined these features** to provide **real-time alerts with audio & emojis**.  
 
 ### 🔹 **Vehicle Health Monitoring (ELM327 & CAN Protocol)**  
 - Used **ELM327 OBD-II scanner** to retrieve vehicle diagnostics:  
