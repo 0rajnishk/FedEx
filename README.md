@@ -44,7 +44,7 @@ The system consists of:
 | **Ensuring accurate distraction detection** | Combined **multiple vision-based parameters** for higher precision. |
 | **Real-time alert system without user annoyance** | Used **cool emojis & subtle audio alerts** to improve UX. |
 
-## 📈 Impact  
+## Impact  
  **Enhanced driver safety** with AI-driven alerts.  
  **Improved vehicle performance monitoring** using real-time analytics.  
  **Fleet-wide optimization** for data-driven decision-making.  
